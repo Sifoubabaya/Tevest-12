@@ -1,0 +1,26 @@
+# VERIDIAN - Supply Chain Risk Intelligence
+# robots.txt for Search Engine Optimization
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /contact.html
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://sifoubabaya.github.io/Tevest-12/sitemap.xml
+
+# User agents to allow
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
